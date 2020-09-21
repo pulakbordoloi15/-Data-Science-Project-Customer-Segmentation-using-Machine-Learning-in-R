@@ -1,5 +1,5 @@
 # -Data-Science-Project-Customer-Segmentation-using-Machine-Learning-in-R
-We cluster mall customers into different categories using Machine Learning in R.
+In this Machine Learning Project,We cluster mall customers into different categories based on their annual income,spending score,age,gender etc  using Machine Learning in R.
 # -Use
 To identify different types of customers in a mall and assign each type a label.
 # -Final Output
